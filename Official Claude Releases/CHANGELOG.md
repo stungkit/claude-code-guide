@@ -1,5 +1,15 @@
 # Changelog
 
+## 2.0.2
+
+- Updated Bedrock default Sonnet model to `global.anthropic.claude-sonnet-4-5-20250929-v1:0`
+- Various bug fixes and presentation improvements
+
+## 2.0.1
+
+- Skip Sonnet 4.5 default model setting change for Bedrock and Vertex
+- Various bug fixes and presentation improvements
+
 ## 2.0.0
 
 - New native VS Code extension
