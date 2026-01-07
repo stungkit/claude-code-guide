@@ -9,14 +9,14 @@ The status section below is updated by a daily GitHub Action.
 <!-- sync-status:start -->
 
 ### 🔄 Last sync
-- UTC: `2026-01-06 02:29 UTC`
-- Europe/Oslo: `2026-01-06 03:29 CET`
+- UTC: `2026-01-07 02:27 UTC`
+- Europe/Oslo: `2026-01-07 03:27 CET`
 
 ### ✅ Files updated this run
 
-- api.md (+3 / -0)
 - claude-apps.md (+2 / -2)
-- claude-code.md (+75 / -73)<!-- sync-status:end -->
+- claude-code.md (+73 / -74)<!-- sync-status:end -->
+
 
 
 
